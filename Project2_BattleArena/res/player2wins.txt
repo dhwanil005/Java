@@ -1,0 +1,37 @@
+Details of Player1:
+
+Player Name=Dhwanil, Strength=11, Constitution=12, Dexterity=11, Charisma=12, Health=46 , strikingPower=13, avoidanceAbility=15, potentialStrikingDamage=16, playersWeapon=Flail
+
+Headgear assigned to player:1,Potions assigned to the player:9,Belts assigned to the player:5, Footwear assigned to player:1
+
+Details of Player2:
+
+Player Name=Abhi, Strength=12, Constitution=14, Dexterity=11, Charisma=8, Health=45 , strikingPower=18, avoidanceAbility=17, potentialStrikingDamage=20, playersWeapon=Katana
+
+Headgear assigned to player:1,Potions assigned to the player:10,Belts assigned to the player:5, Footwear assigned to player:1
+
+Dhwanil's Health after round  1  is:  46
+Abhi's    Health after round  1  is:  45
+
+Dhwanil's Health after round  2  is:  40
+Abhi's    Health after round  2  is:  45
+
+Dhwanil's Health after round  3  is:  34
+Abhi's    Health after round  3  is:  45
+
+Dhwanil's Health after round  4  is:  28
+Abhi's    Health after round  4  is:  45
+
+Dhwanil's Health after round  5  is:  22
+Abhi's    Health after round  5  is:  45
+
+Dhwanil's Health after round  6  is:  16
+Abhi's    Health after round  6  is:  45
+
+Dhwanil's Health after round  7  is:  10
+Abhi's    Health after round  7  is:  45
+
+Dhwanil's Health after round  8  is:  4
+Abhi's    Health after round  8  is:  45
+
+Abhi wins

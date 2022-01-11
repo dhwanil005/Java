@@ -1,0 +1,11 @@
+General Overview
+The Jungle Frienda Primate Sanctuary wants to get rid of their paper records and want to shift to computer recors instead and in my project i have done the best to my knowledge to implement the given problem, we have different types of housing: Isolation and Enclosure, we can add monkeys and print the list with their whereabouts of each monkey and their details.
+
+List of Features
+List of monkeys in sanctuary, list of monkeys in enclosure, checking if the monkey is healthy, medically assesed, checking availability,adding monkey to sanctuary, getting details of monkeys.
+
+Deisgn/Model changes
+used enum for fields like: favorite food, sex and size
+
+Limitations
+Did'nt implement shopping list, move monkey to enclosure.

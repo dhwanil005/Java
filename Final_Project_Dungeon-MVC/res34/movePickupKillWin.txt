@@ -1,0 +1,48 @@
+You Are In  Cave 2 
+Possible Directions Are:[SOUTH, EAST]
+This Cave Contains: DIAMOND
+This Cave Contains: null
+You smell some strange smell
+Move,Pickup or Shoot? 
+m
+Which Direction do you want to move in?SOUTH
+You Are In  Cave 10 
+Possible Directions Are:[SOUTH, NORTH]
+This Cave Contains: DIAMOND
+This Cave Contains: null
+You smell a really intense pungent smell
+Move,Pickup or Shoot? 
+p
+You now have:{Arrow=3, SAPPHIRE=0, DIAMOND=1, RUBY=0}You Are In  Cave 10 
+Possible Directions Are:[SOUTH, NORTH]
+This Cave Contains: DIAMOND
+This Cave Contains: null
+You smell a really intense pungent smell
+Move,Pickup or Shoot? 
+s
+SOUTHWhich Direction?SOUTH
+How far?1
+You hear a wailing sound from the darknessYou Are In  Cave 10 
+Possible Directions Are:[SOUTH, NORTH]
+This Cave Contains: DIAMOND
+This Cave Contains: null
+You smell a really intense pungent smell
+Move,Pickup or Shoot? 
+s
+SOUTHWhich Direction?SOUTH
+How far?1
+You hear a wailing sound from the darknessYou Are In  Cave 10 
+Possible Directions Are:[SOUTH, NORTH]
+This Cave Contains: DIAMOND
+This Cave Contains: null
+You smell a really intense pungent smell
+Move,Pickup or Shoot? 
+m
+Which Direction do you want to move in?South
+Invalid DirectionWhich Direction do you want to move in?SOUTH
+You Are In  Cave 18 
+Possible Directions Are:[NORTH, WEST, EAST]
+This Cave Contains: RUBY
+This Cave Contains: null
+You dont smell any weird smell
+You have succesfully completed the Dungeon And won the game

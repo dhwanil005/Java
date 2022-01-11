@@ -1,0 +1,44 @@
+You Are In  Cave 1 
+Possible Directions Are:[EAST, WEST]
+This Cave Contains: SAPPHIRE
+This Cave Contains: null
+You dont smell any weird smell
+Move,Pickup or Shoot? 
+m EAST
+Which Direction do you want to move in?You Are In  Cave 2 
+Possible Directions Are:[SOUTH, WEST]
+This Cave Contains: DIAMOND
+This Cave Contains: null
+You dont smell any weird smell
+Move,Pickup or Shoot? 
+m SOUTH
+Which Direction do you want to move in?You Are In  Cave 10 
+Possible Directions Are:[NORTH, SOUTH, WEST]
+This Cave Contains: SAPPHIRE
+This Cave Contains: null
+You smell some strange smell
+Move,Pickup or Shoot? 
+m SOUTH
+Which Direction do you want to move in?You Are In  Cave 18 
+Possible Directions Are:[NORTH, EAST]
+This Cave Contains: SAPPHIRE
+This Cave Contains: null
+You dont smell any weird smell
+Move,Pickup or Shoot? 
+m EAST
+Which Direction do you want to move in?You Are In  Cave 19 
+Possible Directions Are:[SOUTH, NORTH, WEST]
+This Cave Contains: null
+This Cave Contains: null
+You dont smell any weird smell
+Move,Pickup or Shoot? 
+m NORTH
+Which Direction do you want to move in?You Are In  Cave 11 
+Possible Directions Are:[EAST, SOUTH, NORTH]
+This Cave Contains: DIAMOND
+This Cave Contains: null
+You smell a really intense pungent smell
+Move,Pickup or Shoot? 
+m EAST
+You Are In  Cave 12 
+You are dead

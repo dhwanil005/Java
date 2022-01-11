@@ -1,0 +1,13 @@
+Sanctuary List
+Name: Mark  Species: Guereza  Sex: Male  Favourite Food:Fruits  Approx Age: 9  Size: Large  ID:1  Housing Type:Enclosure  
+Name: Jill  Species: Guereza  Sex: Female  Favourite Food:Eggs  Approx Age: 2  Size: Small  ID:2  Housing Type:Isolation  
+Name: Rock  Species: Drill  Sex: Female  Favourite Food:Fruits  Approx Age: 20  Size: Large  ID:3  Housing Type:Enclosure  
+
+
+Enclosure List
+The monkey's name is:Mark
+The monkey's sex is:Male
+The monkey's Favorite Food is:Fruits
+The monkey's name is:Jill
+The monkey's sex is:Female
+The monkey's Favorite Food is:Eggs
